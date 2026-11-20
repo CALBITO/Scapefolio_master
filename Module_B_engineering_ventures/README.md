@@ -74,10 +74,19 @@ Full-stack hardware prototyping, low-level telemetry pipelines, geospatial softw
 
 ---
 
-## `b.4_foray_gtm_playbooks/` — Biotech & Commercial GTM Playbooks
+## `b.4_foray_gtm_playbooks/` — Plant Tissue Culture & Commercial GTM Playbooks
 
-| Biotech Lab Execution | Foray Playbook I | Foray Playbook II | Foray Playbook III |
-| :---: | :---: | :---: | :---: |
-| ![Biotech](b.4_foray_gtm_playbooks/b4_biotech_01.png) | ![Foray 1](b.4_foray_gtm_playbooks/b4_foray_01.png) | ![Foray 2](b.4_foray_gtm_playbooks/b4_foray_02.png) | ![Foray 3](b.4_foray_gtm_playbooks/b4_foray_03.png) |
+### Wet-Lab Assay Validation & Commercial GTM Playbook — *Foray*
+![Biotech Wet-Lab](b.4_foray_gtm_playbooks/b4_biotech_01.png)
 
-* **Focus:** Wet-lab assay validation paired with commercial go-to-market playbooks, structured workflow standardization, and reproducible execution frameworks.
+* **Left:** Precision micropipetting for tissue culture reagent dosing.
+* **Center:** Agarose gel electrophoresis output (SYBR Safe DNA fragment analysis).
+* **Right:** Serial dilution validation on filter media.
+
+* **Problem:** Translating reproducible plant tissue culture workflows into scalable market adoption across academic, greenhouse, and research ecosystems without standardized outreach playbooks.
+* **Method:** Paired wet-lab assay validation (reagent dosing, SYBR Safe gel fragment verification, and serial dilution protocols) with primary market surveys across **50+ institutions**  in the Greater Boston area, culminating in a formal GTM playbook presentation including data base tutorial and brand avatars to Foray leadership.
+* **Metric:**  Mapped **50+ Greater Boston institutions** prospects, delivering an actionable multi-channel GTM playbook targeting greenhouse culture hubs, industry conferences, community events, and curriculum induction pipelines.
+
+| Foray Playbook I | Foray Playbook II | Foray Playbook III |
+| :---: | :---: | :---: |
+| ![Foray 1](b.4_foray_gtm_playbooks/b4_foray_01.png) | ![Foray 2](b.4_foray_gtm_playbooks/b4_foray_02.png) | ![Foray 3](b.4_foray_gtm_playbooks/b4_foray_03.png) |
