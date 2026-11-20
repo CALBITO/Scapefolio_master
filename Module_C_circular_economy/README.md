@@ -8,7 +8,7 @@ Chemo-enzymatic biomanufacturing, municipal solid waste logistics, and closed-lo
 
 | Closed-Loop Biomanufacturing Platform | Macro-Flow & Feedstock Architecture | Chemo-Enzymatic Mechanism & Metrics |
 | :---: | :---: | :---: |
-| ![Solugen Platform](c.1_solugen_chemo_enzymatic/images/c1_01_solugen_platform_workflow.png) | ![Solugen Flow](c.1_solugen_chemo_enzymatic/c1_02_solugen_feedstock_flow.png) | ![Solugen Metrics](c.1_solugen_chemo_enzymatic/c1_03_solugen_enzymatic_metrics.png) |
+| ![Solugen Platform](c.1_solugen_chemo_enzymatic/c1_01_solugen_platform_workflow.png) | ![Solugen Flow](c.1_solugen_chemo_enzymatic/c1_02_solugen_feedstock_flow.png) | ![Solugen Metrics](c.1_solugen_chemo_enzymatic/c1_03_solugen_enzymatic_metrics.png) |
 
 * **Problem:** Traditional petrochemical manufacturing relies on linear, capital-intensive, high-emission thermal cracking.
 * **Method:** Modeled a modular bioforge platform utilizing CRISPR/AI enzyme optimization and metal catalysts to drive continuous-flow chemical production under ambient, low-temperature conditions.
