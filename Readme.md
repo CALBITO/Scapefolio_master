@@ -26,6 +26,3 @@ Multidisciplinary portfolio spanning physical real estate and institutional plan
 * **[`c.1_solugen_chemo_enzymatic/`](Module_C_circular_economy/c.1_solugen_chemo_enzymatic/)** — Modular chemo-enzymatic bioforge modeling, feedstock-to-polymer flows, and zero-emission chemical production analysis.
 * **[`c.2_sirc_municipal_logistics/`](Module_C_circular_economy/c.2_sirc_municipal_logistics/)** — Wellesley municipal solid waste (MSW) Sankey logistics, household cost-to-impact modeling, and Multi-Criteria Decision Matrix (MCDM) infrastructure evaluation.
 * **[`c.3_symbiosis_engine_master/`](Module_C_circular_economy/c.3_symbiosis_engine_master/)** — Integrated 4-node closed-loop resource recovery system (Pyrolysis, Extrusion, Composting Auger, Aquaponic Bio-Sink / PHA Synthesis).
-
----
-*Architected with modular LaTeX and GitHub version control.*
